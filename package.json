@@ -4,7 +4,7 @@
   "description": "A boilerplate for Node.js api projects",
   "repository": {
     "type": "git",
-    "url": "https://github.com/moasko/moasko_nodejs_starter.git"
+    "url": "https://github.com/moasko/node_back_starter.git"
   },
   "license": "MIT",
   "author": {
