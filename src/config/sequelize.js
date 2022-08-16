@@ -5,7 +5,7 @@ const {
 } = process.env;
 
 const defaultConfig = {
-  dialect: 'postgres',
+  dialect: 'mysql',
   timezone: '+03:00',
   username: DB_USER,
   password: DB_PASSWORD,
